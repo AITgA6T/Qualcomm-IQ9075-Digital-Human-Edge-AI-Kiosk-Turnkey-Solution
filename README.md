@@ -10,11 +10,11 @@
 
 - **AI Model**:
   -	ASR (語音辨識)：Paraformer (ONNX Runtime)
-  - Emotion (情緒辨識)：ResNet50-based (QNN)
-  - MediaPipe(人臉辨識)：MediaPipe Face Detection (TFLite)
-  - MeloTTS (語音合成)：MeloTTS (QNN)
-  - Wav2Lip (唇形同步)：Wav2Lip (QNN)
-  - SLM (小型語言模型)：Phi-4-Mini-Instruct (QNN)
+  -	Emotion (情緒辨識)：ResNet50-based (QNN)
+  -	MediaPipe(人臉辨識)：MediaPipe Face Detection (TFLite)
+  -	MeloTTS (語音合成)：MeloTTS (QNN)
+  -	Wav2Lip (唇形同步)：Wav2Lip (QNN)
+  -	SLM (小型語言模型)：Phi-4-Mini-Instruct (QNN)
 
 
 ## Hardware
