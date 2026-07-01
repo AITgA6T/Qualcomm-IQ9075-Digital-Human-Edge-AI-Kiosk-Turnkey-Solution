@@ -47,5 +47,5 @@ The camera and microphone capture video and audio, IQ9075 performs face and emot
 
 ## Demo
 
-<!-- Add your demo GIF: ![Demo](assets/demo.gif) -->
-<!-- Or MP4: drag assets/demo.mp4 into the GitHub README editor / an Issue, then paste the generated https://github.com/user-attachments/assets/... URL here. -->
+![Demo](assets/1.gif)
+![Demo](assets/2.gif)
