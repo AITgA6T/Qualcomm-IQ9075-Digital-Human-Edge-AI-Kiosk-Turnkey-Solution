@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b8841026-c7b2-45e7-8c91-f90492d98ffd
+
 # Qualcomm IQ9075 Digital Human Edge AI Kiosk Turnkey Solution
 
 ## Advantages of IQ9075
@@ -49,6 +53,18 @@ The camera and microphone capture video and audio, IQ9075 performs face and emot
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/5b77bffe-2e15-429c-a4a5-e620bcc1d4ab
+
+https://github.com/user-attachments/assets/91b56c1e-727b-4811-901f-43ca5bf2e8d9
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/06f71d0c-8ab6-4b45-9668-1e35d6e830ee
 
 
 
