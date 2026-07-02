@@ -45,7 +45,7 @@ The camera and microphone capture video and audio, IQ9075 performs face and emot
 
 ![Architecture Diagram](assets/architecture.png)
 
-## Demo
+
 
 ## Demo
 
