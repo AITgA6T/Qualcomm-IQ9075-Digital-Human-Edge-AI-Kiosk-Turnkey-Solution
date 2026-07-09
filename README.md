@@ -44,7 +44,9 @@ Using edge digital human turnkey solution integrating all essential hardware, so
 
 The camera and microphone capture video and audio, IQ9075 performs face and emotion detection, speech recognition, language understanding, and speech synthesis. 
 
-![Architecture Diagram](assets/architecture.png)
+<img width="416" height="199" alt="architecture" src="https://github.com/user-attachments/assets/504d4e54-8027-4d8a-b383-e0c82dc3e1f4" />
+
+
 
 
 
